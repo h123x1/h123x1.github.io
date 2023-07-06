@@ -44,8 +44,11 @@ h1 {
     padding: 3em 0 0;
 }
 .wthree-row {
-    width: 50%;
-    margin: 5em auto;
+	width: 50%;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
 }
 video#html5 {
     width: 100% !important;
@@ -86,8 +89,11 @@ video#html5 p{
 /*-- responsive-design --*/
 @media(max-width:1080px){
 .wthree-row {
-    width: 56%; 
-	margin: 4em auto;
+	width: 56%;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 4em;
+	margin-left: auto;
 }
 } 
 @media(max-width:800px){
